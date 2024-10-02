@@ -10,8 +10,8 @@ touch index.html
     <title>My Personal Website</title>
 </head>
 <body>
-    <h1>Welcome to My Website</h1>
-    <p>This is my personal website created using GitHub Pages!</p>
+    <h1>Shiyi Chen</h1>
+    <p>I am Shiyi Chen, assistant professor of economics at SUNY Oneonta.</p>
 </body>
 </html>
 git add index.html
