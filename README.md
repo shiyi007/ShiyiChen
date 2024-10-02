@@ -1,11 +1,19 @@
 # shiyichen.github.io
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-<!-- start theme color meta headers -->
-<meta name="theme-color" content="#353535">
-<meta name="msapplication-navbutton-color" content="#353535">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<!-- end theme color meta headers -->
-title: [Shiyi Chen]
-description: [A short description of your site's purpose]
+git clone https://github.com/ShiyiChen/ShiyiChen.github.io.git
+cd username.github.io
+touch index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Website</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>This is my personal website created using GitHub Pages!</p>
+</body>
+</html>
+git add index.html
+git commit -m "Initial commit"
+git push origin main
