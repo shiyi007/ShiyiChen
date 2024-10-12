@@ -1,24 +1,27 @@
 ---
 layout: page
-permalink: /categories/
-title: Categories
+title: Teaching
+permalink: /teaching/
 ---
 
+### Teaching Experience
 
-<div id="archives">
-{% for category in site.categories %}
-  <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}"></div>
-    <p></p>
-    
-    <h3 class="category-head">{{ category_name }}</h3>
-    <a name="{{ category_name | slugize }}"></a>
-    {% for post in site.categories[category_name] %}
-    <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></h4>
-    </article>
-    {% endfor %}
-  </div>
-{% endfor %}
-</div>
+### Course Taught
+**SUNY Oneonta**
+ECON1111 Principles of Microeconomics (Fall 2023, Spring 2024, Fall 2024)
+ECON1112 Principles of Macroeconomics (Fall 2023)
+ECON4373 Econometrics (Fall 2024)
+ECON3294 Gender and Economics (Spring 2024)
+
+**Allegheny College**
+ECON202 Economic Statistics (Fall 2022, Spring 2023)       
+ECON102 Intro to Macro (Fall 2022)
+ECON250 Issues in Financing Health Care (Spring 2023)
+ECON438 Gender and Economics (Spring 2023)
+
+**Southern Connecticut State University**
+ECON270 Applied Business Statistics (Spring 2021)
+
+**University of Connecticut**
+ECON2500W Writing in Economics (Spring and Fall 2020) 
+ECON2311 Empirical Methods in Economics I (Stata Lab) (Fall 2018, Spring 2019)
