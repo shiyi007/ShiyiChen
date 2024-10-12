@@ -9,7 +9,7 @@ permalink: /teaching/
 </div>
 
 <div style="text-align: left;">
--**SUNY Oneonta**<br>
+##SUNY Oneonta##
   
 ECON1111 Principles of Microeconomics (Fall 2023, Spring 2024, Fall 2024)<br>
 
@@ -22,7 +22,7 @@ ECON3294 Gender and Economics (Spring 2024)<br>
 </div>
 
 <div style="text-align: left;">
--**Allegheny College**<br>
+##Allegheny College##
   
 ECON202 Economic Statistics (Fall 2022, Spring 2023)<br>    
 
@@ -36,13 +36,13 @@ ECON438 Gender and Economics (Spring 2023)<br>
 
 <div style="text-align: left;">
   
--**Southern Connecticut State University**<br>
+##Southern Connecticut State University##
 
 ECON270 Applied Business Statistics (Spring 2021)<br>
 </div>
 
 <div style="text-align: left;">
--**University of Connecticut**<br>
+##University of Connecticut##
   
 ECON2500W Writing in Economics (Spring and Fall 2020)<br> 
 
