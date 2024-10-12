@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Course Taught
+## Course Taught 
 
 **SUNY Oneonta**
 
