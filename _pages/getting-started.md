@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Getting started with Reverie
-permalink: /getting-started/
+title: Research
+permalink: /Research/
 ---
 
-### Step 1) Fork Reverie to your User Repository
+### Publications
 
-Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
+[Gender Composition in the Workplace and Marriage Rates] (https://www.cambridge.org/core/journals/journal-of-demographic-economics/article/gender-composition-in-the-workplace-and-marriage-rates/CACF058F36E0788A41D39059349E76E0), Journal of Demographic Economics, First View, 2023, pp. 1-23.
 
-Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
+[Novel Implementation of State Reporting Policy for Substance-Exposed Infants] (https://pubmed.ncbi.nlm.nih.gov/36093638/) (with Margaret H. Lloyd Sieger, Cynthia Nichols, Melissa Sienna, and Marilyn Sanders), Hospital Pediatrics, 12, no. 10 (2022): 841-848.
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+
 
 ### Step 2) Customize and view your site
 
