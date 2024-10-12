@@ -1,7 +1,26 @@
 ---
 layout: post
-title: Some articles are just so short that we've to make the footer stick
-categories: Miscellaneous
+title: Teaching
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Teaching Experience
+
+### Course Taught
+**SUNY Oneonta**
+ECON1111 Principles of Microeconomics (Fall 2023, Spring 2024, Fall 2024)
+ECON1112 Principles of Macroeconomics (Fall 2023)
+ECON4373 Econometrics (Fall 2024)
+ECON3294 Gender and Economics (Spring 2024)
+
+**Allegheny College**
+ECON202 Economic Statistics (Fall 2022, Spring 2023)       
+ECON102 Intro to Macro (Fall 2022)
+ECON250 Issues in Financing Health Care (Spring 2023)
+ECON438 Gender and Economics (Spring 2023)
+
+**Southern Connecticut State University**
+ECON270 Applied Business Statistics (Spring 2021)
+
+**University of Connecticut**
+ECON2500W Writing in Economics (Spring and Fall 2020) 
+ECON2311 Empirical Methods in Economics I (Stata Lab) (Fall 2018, Spring 2019)
