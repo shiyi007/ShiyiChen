@@ -3,8 +3,6 @@ layout: page
 title: Research
 permalink: /research/
 ---
-
-
 ## Publications ##
 
 [Gender Composition in the Workplace and Marriage Rates](https://www.cambridge.org/core/journals/journal-of-demographic-economics/article/gender-composition-in-the-workplace-and-marriage-rates/CACF058F36E0788A41D39059349E76E0), *Journal of Demographic Economics*, First View, 2023, pp. 1-23.
