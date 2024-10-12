@@ -56,6 +56,12 @@ kramdown:
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
+# nav
+nav:
+  - Home: /
+  - About: /about/
+  - Research: /Research/
+  - Teaching: /Teaching/
 
 # Use the following plug-ins
 plugins:
