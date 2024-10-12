@@ -12,5 +12,5 @@ permalink: /research/
 
 
 
-### works in Progress
+### Works in Progress
 
