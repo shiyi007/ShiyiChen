@@ -1,29 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+Welcome to my site!
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
-
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
-
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+I am an assistant professor of economics at SUNY Oneonta. I received my Ph.D. in Economics from the University of Connecticut in 2022. My research focuses on studies of gender and racial inequality. In particular, I am interested in whether public policy can be used to diminish gender and racial differences in society in general. I am also interested in family well-being and early child development. 
