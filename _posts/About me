@@ -1,6 +1,7 @@
 ---
-layout: post
-title: About Me
+layout: page
+title: Home
+permalink: /About Me/
 ---
 
 Welcome to my site!
