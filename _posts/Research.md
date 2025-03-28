@@ -12,13 +12,12 @@ permalink: /research/
 [Building the Evidence for Family Treatment Courts: Reunification and Permanency in an Urban Court in the Southwest] with Elizabeth J. Goldsborough, Margaret H. Lloyd Sieger, and Jesscia Becker, *Family Court Review* (forthcoming)
 
 ## Works in Progress ##
-
-[The Impact of Banning Affirmative Action Laws on Black-White Wage Gaps: Evidence from Public Sector Workers] with Kenneth Couch
+The Impact of Banning Affirmative Action Laws on Black-White Wage Gaps: Evidence from Public Sector Workers, with Kenneth Couch
 
 [Affirmative Action Policies and Interracial Marriage](https://www.aeaweb.org/conference/videos/2020/shiyi-chen) 
 
-[Effect of Statewide Prenatal Substance Exposure Policy on Rate of Infant Maltreatment Reports] with Margaret H. Lloyd Sieger, Elizabeth Goldsborough, Cindy Nichols, Lucas Godoy, Tim Moore, Mishka Terplan, and Stephen W. Patrick, Revise and Resubmit at *Health Affairs* 
+Effect of Statewide Prenatal Substance Exposure Policy on Rate of Infant Maltreatment Reports, with Margaret H. Lloyd Sieger, Elizabeth Goldsborough, Cindy Nichols, Lucas Godoy, Tim Moore, Mishka Terplan, and Stephen W. Patrick, Revise and Resubmit at *Health Affairs* 
 
 COVID-19, Work from Home, and Racial Attitudes
 
-[What Can Artificial Intelligence Tell Us About Racial and Ethnic Groups in the U.S.] with Kenneth Couch
+What Can Artificial Intelligence Tell Us About Racial and Ethnic Groups in the U.S., with Kenneth Couch
