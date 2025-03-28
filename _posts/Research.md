@@ -15,7 +15,7 @@ permalink: /research/
 
 [The Impact of Banning Affirmative Action Laws on Black-White Wage Gaps: Evidence from Public Sector Workers] with Kenneth Couch
 
-[Affirmative Action Policies and Interracial Marriage] (https://www.aeaweb.org/conference/videos/2020/shiyi-chen) 
+[Affirmative Action Policies and Interracial Marriage](https://www.aeaweb.org/conference/videos/2020/shiyi-chen) 
 
 [Effect of Statewide Prenatal Substance Exposure Policy on Rate of Infant Maltreatment Reports] with Margaret H. Lloyd Sieger, Elizabeth Goldsborough, Cindy Nichols, Lucas Godoy, Tim Moore, Mishka Terplan, and Stephen W. Patrick, Revise and Resubmit at *Health Affairs* 
 
