@@ -51,4 +51,7 @@ include: ['_pages']
 paginate: 6
 paginate_path: /page:num/
 
+include:
+  - images
+
 
