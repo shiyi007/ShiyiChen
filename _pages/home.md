@@ -1,6 +1,6 @@
 layout: default
 title: Home
-permalink: /
+permalink: /home
 ---
 <div class="home-content">
     <h1>Welcome to My Website</h1>
