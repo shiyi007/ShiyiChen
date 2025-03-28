@@ -1,17 +1,48 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-    {% seo title=false %}
-    {% include meta.html %}
-
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-
-    <meta name="theme-color" content="#000000">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
-    {% include analytics_head.html %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .wrapper-container { max-width: 960px; margin: 0 auto; }
+        .masthead { padding: 20px 0; }
+        .site-avatar img { max-width: 100px; border-radius: 50%; }
+        .site-info { float: left; margin-left: 20px; }
+        nav { float: right; }
+        nav a { margin-left: 15px; }
+        .clearfix::after { content: ""; display: table; clear: both; }
+    </style>
+</head>
+<body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
+            <div class="site-info">
+              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+              <p class="site-description">{{ site.description }}</p> 
+            </div>
+            <nav>
+              <a href="{{ site.baseurl }}/About me">about</a>
+              <a href="{{ site.baseurl }}/CV">CV</a>
+              <a href="{{ site.baseurl }}/research">research</a>
+              <a href="{{ site.baseurl }}/teaching">teaching</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+      <div class="wrapper-content">
+        {{ content }}
+      </div>
+    </div>
+</body>
+</html>
   </head>
 
   <body>
