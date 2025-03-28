@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Me
-permalink: /About Me/
+permalink: /About me/
 ---
 
 ![My Photo](/images/CV-photo.JPG){:style="max-width: 200px; border-radius: 50%;"}
