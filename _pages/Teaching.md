@@ -8,13 +8,15 @@ permalink: /teaching/
 
 **SUNY Oneonta**
 
-ECON1111 Principles of Microeconomics (Fall 2023, Spring 2024, Fall 2024)
+ECON1111 Principles of Microeconomics (Fall 2023, Spring 2024, Fall 2024, Spring 2025)
 
 ECON1112 Principles of Macroeconomics (Fall 2023)
 
 ECON4373 Econometrics (Fall 2024)
 
 ECON3294 Gender and Economics (Spring 2024)
+
+
 
 **Allegheny College**
   
@@ -26,9 +28,13 @@ ECON250 Issues in Financing Health Care (Spring 2023)
 
 ECON438 Gender and Economics (Spring 2023)
 
+
+
 **Southern Connecticut State University**
 
 ECON270 Applied Business Statistics (Spring 2021)
+
+
 
 **University of Connecticut**
   
