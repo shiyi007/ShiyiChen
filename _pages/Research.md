@@ -7,7 +7,7 @@ permalink: /research/
 
 ## Publications ##
  
-[Gender Composition in the Workplace and Marriage Rates](https://www.cambridge.org/core/journals/journal-of-demographic-economics/article/gender-composition-in-the-workplace-and-marriage-rates/CACF058F36E0788A41D39059349E76E0), *Journal of Demographic Economics*, First View, 2023, pp. 1-23.[Paper](/JODE _gender_composition_in_the_workplace_and_marriage_rates.pdf)
+[Gender Composition in the Workplace and Marriage Rates](https://www.cambridge.org/core/journals/journal-of-demographic-economics/article/gender-composition-in-the-workplace-and-marriage-rates/CACF058F36E0788A41D39059349E76E0), *Journal of Demographic Economics*, First View, 2023, pp. 1-23.[Paper](https://github.com/shiyi007/ShiyiChen/blob/149ab664a5748e1a966bd0a8d70e0eb0af38a2bd/JODE%20_gender_composition_in_the_workplace_and_marriage_rates.pdf))
 
 [Novel Implementation of State Reporting Policy for Substance-Exposed Infants](https://pubmed.ncbi.nlm.nih.gov/36093638/) (with Margaret H. Lloyd Sieger, Cynthia Nichols, Melissa Sienna, and Marilyn Sanders), *Hospital Pediatrics*, 12, no. 10 (2022): 841-848.
 
