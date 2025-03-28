@@ -9,7 +9,7 @@ name: Shiyi Chen
 author: Shiyi Chen
 
 # Short bio or description (displayed in the header)
-description: Welcome to My Page
+description: Shiyi's Personal Website
 
 #
 # Flags below are optional
@@ -19,8 +19,7 @@ description: Welcome to My Page
 footer-links:
   email: shiyi.chen@oneonta.edu
 
-# For newer "GA4" analytics, use the following instead of the "UA" entry above
-#google_analytics_ga4: G-GABC1DEFG
+
 
 
 
@@ -55,7 +54,7 @@ sass:
 # nav
 nav:
   - Home: /
-  - About: /about/
+  - CV: /about/
   - Research: /research/
   - Teaching: /teaching/
 
