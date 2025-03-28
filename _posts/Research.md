@@ -9,7 +9,7 @@ permalink: /research/
 
 [Novel Implementation of State Reporting Policy for Substance-Exposed Infants](https://pubmed.ncbi.nlm.nih.gov/36093638/) (with Margaret H. Lloyd Sieger, Cynthia Nichols, Melissa Sienna, and Marilyn Sanders), *Hospital Pediatrics*, 12, no. 10 (2022): 841-848.
 
-[Building the Evidence for Family Treatment Courts: Reunification and Permanency in an Urban Court in the Southwest] with Elizabeth J. Goldsborough, Margaret H. Lloyd Sieger, and Jesscia Becker, *Family Court Review* (forthcoming)
+Building the Evidence for Family Treatment Courts: Reunification and Permanency in an Urban Court in the Southwest, with Elizabeth J. Goldsborough, Margaret H. Lloyd Sieger, and Jesscia Becker, *Family Court Review* (forthcoming)
 
 ## Works in Progress ##
 The Impact of Banning Affirmative Action Laws on Black-White Wage Gaps: Evidence from Public Sector Workers, with Kenneth Couch
