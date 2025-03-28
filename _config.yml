@@ -53,7 +53,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 # nav
 nav:
-  - Home: /
+  - Home: /About Me/
   - CV: /about/
   - Research: /research/
   - Teaching: /teaching/
